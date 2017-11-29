@@ -55,8 +55,9 @@ include("cosmicjs-php/cosmicjs.php");
 								<li><a href="https://cosmicjs.com" class="button special"><?php echo $cosmic['hero-unit']->metafield['button-text']; ?></a></li>
 							</ul>
 						</div>
-						<a href="#one" class="more scrolly"><?php echo $cosmic['hero-unit']->metafield['arrow-text']; ?></a>
+						<!-- <a href="#one" class="more scrolly"><?php echo $cosmic['hero-unit']->metafield['arrow-text']; ?></a> -->
 					</section>
+                    
 
 				<!-- One -->
 					<section id="one" class="wrapper style1 special">
